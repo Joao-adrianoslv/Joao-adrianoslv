@@ -25,6 +25,6 @@ Olá me chamo João, tenho 21 anos, mineiro, atualmente estou no 2° período de
   <a href = "joaocontatovaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-adriano-037977250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Joao-adrianoslv/Joao-adrianoslv/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
