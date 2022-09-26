@@ -5,8 +5,8 @@ Olá me chamo João, tenho 21 anos, mineiro, atualmente estou no 2° período de
 
 <div align="center">
   <a href="https://github.com/Joao-adrianoslv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-adrianoslv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-adrianoslv&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joao-adrianoslv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-adrianoslv&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
