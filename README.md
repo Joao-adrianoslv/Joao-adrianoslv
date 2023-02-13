@@ -1,5 +1,5 @@
 ### Olá! Seja bem vindo 💻
-Olá me chamo João, tenho 21 anos, mineiro, atualmente estou no 2° período de Engenharia de software Estácio (Ead). Buscando sempre me aprimorar, criando projetos com HTML, CSS e JavaScript. Visando cada vez mais aprender novas tecnologias para me tornar um Desenvolvedor Front-End.
+...
 
 ##
 
